@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "querypanel": {
+      "url": "https://mcp.querypanel.io/mcp"
+    }
+  }
+}

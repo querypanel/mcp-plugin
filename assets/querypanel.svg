@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">QueryPanel</title>
+  <defs>
+    <linearGradient id="background" x1="18" y1="14" x2="110" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#background)"/>
+  <path fill="#fff" d="M30 39c0-5 4-9 9-9h50c5 0 9 4 9 9v34c0 5-4 9-9 9H65l-16 16V82H39c-5 0-9-4-9-9V39Zm16 12v10h36V51H46Zm0 19v10h23V70H46Z"/>
+  <circle cx="84" cy="75" r="14" fill="#D8B4FE"/>
+  <path fill="#4C1D95" d="m81 68 10 7-10 7V68Z"/>
+</svg>

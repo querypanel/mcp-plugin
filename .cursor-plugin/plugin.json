@@ -1,0 +1,15 @@
+{
+  "name": "querypanel",
+  "version": "1.0.0",
+  "description": "Configure QueryPanel and build customer-facing analytics with OAuth.",
+  "author": {
+    "name": "QueryPanel",
+    "email": "csaba.ivancza@querypanel.io"
+  },
+  "homepage": "https://querypanel.io",
+  "repository": "https://github.com/querypanel/mcp-plugin",
+  "license": "MIT",
+  "keywords": ["analytics", "mcp", "sql", "dashboards"],
+  "logo": "assets/querypanel.svg",
+  "mcpServers": "mcp.json"
+}
