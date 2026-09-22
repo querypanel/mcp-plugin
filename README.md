@@ -66,7 +66,9 @@ query sessions.
 This repository contains only the Marketplace connector for the hosted QueryPanel MCP server; it does not include the server implementation. The package root includes:
 
 ```text
+├── .claude-plugin/plugin.json
 ├── .cursor-plugin/plugin.json
+├── .mcp.json
 ├── assets/querypanel.svg
 ├── mcp.json
 └── README.md
